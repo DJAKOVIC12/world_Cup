@@ -8,7 +8,7 @@ Este proyecto es una representación detallada de la historia de la Copa Mundial
   
 - **Estadísticas Detalladas:** Muestra estadísticas sobre las veces que cada selección ha participado en el torneo, la cantidad de veces que ha logrado ser campeona y otros logros relevantes en la historia de la competición.
 
-## Tareas Realizadas 
+### Tareas Realizadas 
 
 Durante el desarrollo de este proyecto, me embarqué en una serie de etapas fundamentales para garantizar la integridad y la visualización precisa de los datos relacionados con la Copa Mundial de la FIFA:
 
@@ -26,13 +26,17 @@ Durante el desarrollo de este proyecto, me embarqué en una serie de etapas fund
 
 Estas etapas fueron esenciales para asegurar la fiabilidad de los datos, facilitar su manipulación y permitir una representación visual efectiva de la historia de la Copa Mundial de la FIFA.
 
-## Tecnologías Utilizadas 💻
 
+
+## Tecnologías Utilizadas 💻
+- Excel 
 - Microsoft Power BI
+- Microsoft Power Query
+- Virtual Box
 
 ## Capturas de Pantalla 📸
-![Mundiales de futbol x pais y continente ](pictures/VirtualBox_windows_pro_08_11_2023_10_53_18.png)
-![Logros](pictures/VirtualBox_windows_pro_08_11_2023_10_54_14.png)
+![Mundiales de futbol x pais y continente ](/Users/macbookpro/Desktop/WORKSPACE/world_Cup/pictures/VirtualBox_windows_pro_08_11_2023_10_53_18.png)
+![Logros](/Users/macbookpro/Desktop/WORKSPACE/world_Cup/pictures/VirtualBox_windows_pro_08_11_2023_10_54_14.png)
 
 
 ## Contacto 📧
