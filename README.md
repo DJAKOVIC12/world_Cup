@@ -31,8 +31,8 @@ Estas etapas fueron esenciales para asegurar la fiabilidad de los datos, facilit
 - Microsoft Power BI
 
 ## Capturas de Pantalla 📸
-![Mundiales de futbol x pais y continente ](/Users/macbookpro/Desktop/WORKSPACE/world_Cup/pictures/VirtualBox_windows_pro_08_11_2023_10_53_18.png)
-![Logros](/Users/macbookpro/Desktop/WORKSPACE/world_Cup/pictures/VirtualBox_windows_pro_08_11_2023_10_54_14.png)
+![Mundiales de futbol x pais y continente ](pictures/VirtualBox_windows_pro_08_11_2023_10_53_18.png)
+![Logros](pictures/VirtualBox_windows_pro_08_11_2023_10_54_14.png)
 
 
 ## Contacto 📧
