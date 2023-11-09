@@ -1,4 +1,4 @@
-![](WhatsApp Image 2023-11-09 at 10.01.55.jpeg)
+![Mundiales de futbol x pais y continente ](WhatsApp Image 2023-11-09 at 10.01.55.jpeg)
 # Copa Mundial de la FIFA - Historial de Selecciones ⚽🏆
 
 Este proyecto es una representación detallada de la historia de la Copa Mundial de la FIFA. Muestra información sobre todas las selecciones nacionales que han participado a lo largo de las ediciones de este prestigioso torneo.
@@ -36,8 +36,8 @@ Estas etapas fueron esenciales para asegurar la fiabilidad de los datos, facilit
 - Virtual Box
 
 ## Capturas de Pantalla 📸
-![Mundiales de futbol x pais y continente ](/Users/macbookpro/Desktop/WORKSPACE/world_Cup/pictures/VirtualBox_windows_pro_08_11_2023_10_53_18.png)
-![Logros](/Users/macbookpro/Desktop/WORKSPACE/world_Cup/pictures/VirtualBox_windows_pro_08_11_2023_10_54_14.png)
+![Mundiales de futbol x pais y continente ](pictures/VirtualBox_windows_pro_08_11_2023_10_53_18.png)
+![Logros](pictures/VirtualBox_windows_pro_08_11_2023_10_54_14.png)
 
 
 ## Contacto 📧
