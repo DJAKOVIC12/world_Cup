@@ -1,7 +1,6 @@
 
 # Copa Mundial de la FIFA - Historial de Selecciones ⚽🏆
-![](world_Cup
-/WhatsApp Image 2023-11-09 at 10.01.55.jpeg)
+
 Este proyecto es una representación detallada de la historia de la Copa Mundial de la FIFA. Muestra información sobre todas las selecciones nacionales que han participado a lo largo de las ediciones de este prestigioso torneo.
 
 ## Funcionalidades 📊
